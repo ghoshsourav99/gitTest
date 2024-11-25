@@ -2,7 +2,9 @@
 
 function GitTest() {
   return (
-    <div>add content topic</div>
+    <div>
+      <p>i am a paragraph tag</p>
+    </div>
   )
 }
 export default GitTest
