@@ -1,5 +1,5 @@
 import HomePage from "./components/HomePage.tsx"
-import gitTest from "./components/gitTest.jsx"
+import GitTest from "./components/GitTest.tsx"
 
 function App() {
   
@@ -7,7 +7,7 @@ function App() {
   return (
    <>
 <HomePage/>
-<gitTest/>
+<GitTest/>
    </>
   )
 }
